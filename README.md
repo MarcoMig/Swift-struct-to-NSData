@@ -1,0 +1,1 @@
+# Swift-struct-to-NSData
